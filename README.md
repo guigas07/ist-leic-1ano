@@ -2,9 +2,10 @@
 
 Projetos do primeiro ano de LEIC no Técnico: FP, LP, IAED e IAC.
 
-Os enunciados não estão aqui, só um resumo do que cada projeto pedia. Algumas destas cadeiras usam os mesmos enunciados ano após ano, e publicar isto seria dar cábulas de graça a quem vier depois de mim.
+Este repositório tem como objetivo partilhar o meu percurso na licenciatura em engenharia informática e de computadores no Instituto Superior Técnico.
 
-Aviso desde já: é código de primeiro ano. Prazos apertados, a aprender a linguagem ao mesmo tempo que tentava resolver o problema, e em pelo menos dois projetos só percebi depois de entregar que tinha feito asneira algures. Não limpei nada disto — fica tal como foi entregue, bugs incluídos. Prefiro isto a fingir que já sabia o que estava a fazer.
+Iniciei o curso sem qualquer tipo de conhecimento prévio de linguagens de programação. Portanto alguns projetos estão incompletos e/ou com erros. Todos os projetos têm um ficheiro README com um contexto dos objetivos dos projetos em questão.
+
 
 ## Cadeiras
 
