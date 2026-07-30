@@ -57,7 +57,7 @@ update:
 
 success:    # caso esteja tudo bem 
     li a0, 0
-    mv a1, t1
+    mv a1, t1  
     j argmax_end
   
 argmax_invalid_size:
