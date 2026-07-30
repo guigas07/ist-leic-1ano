@@ -23,7 +23,7 @@ exit:
 # Returns:
 #   a0 = status code
 #   a1 = index of the largest element
-# ===========================================================================
+# ===========================================================================  
 argmax:
   # TODO: Implement the argmax function here
   # verificar se o tamanho é menor que  1
