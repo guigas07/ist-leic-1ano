@@ -69,7 +69,7 @@ loop_end:
   li a0, 0
   mv a1, t0
   j dot_end
-
+    
 overflow_error:
   li a0, 200
   j dot_end
