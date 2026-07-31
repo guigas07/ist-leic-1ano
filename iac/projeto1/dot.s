@@ -3,7 +3,7 @@
 A:    .word 1, 2, 1, 1
 B:    .word 1, 1, 3, 3
 SIZE: .word 4
-
+    
 .text
 main:
   la a1, A          # a1 = pointer to array A
