@@ -30,7 +30,7 @@ dot:
 
   li t0, 1
   blt a3, t0, exit_out_of_bounds     # verificacao len > 1
-
+     
   li t0, 0        # inicia contador
   li t1, 0        # inicia indice
 
