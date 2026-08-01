@@ -3,7 +3,7 @@
 ARRAY: .word -6 -1 6 1
 SIZE:  .word 4
 INDEX: .word 2
-
+   fsfdsdfsdf
 .text
 main:
   la a1, ARRAY      # a1 = pointer to array
