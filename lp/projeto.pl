@@ -5,7 +5,7 @@
 :- ['codigoAuxiliar.pl'].
 :- ['bd_estudantes.pl'].
 :- ['listas_palavras.pl'].
-
+   
 % 3.- parte 1
 media([], 0) :- !. %caso a lista seja vazia a média é igual a 0
 
