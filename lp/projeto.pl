@@ -8,7 +8,7 @@
    
 % 3.- parte 1
 media([], 0) :- !. %caso a lista seja vazia a média é igual a 0
-
+    
 media(ListaValores, Media) :-
 /* o predicado media começa por somar todos os valores da lista inserida
 e calcula quantos elementos tem a lista inserida, de seguida divide estes
