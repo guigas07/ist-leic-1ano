@@ -18,7 +18,7 @@ dois valores e acaba por arredondar o valor da divisão*/
     N > 0,
     MediaAlunos is Soma / N,
     arredonda(MediaAlunos, Media).
-
+      
 
 mediaNotasPorIdade(IdadeMin, IdadeMax, Media) :-
     /*o predicado mediaNotasPorIdade recolhe todas as notas associadasaos estudantes 
