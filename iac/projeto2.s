@@ -36,7 +36,7 @@
 VOCABULARY_FILENAME:     .string "vocab.txt"
 EMBEDDINGS_FILENAME:     .string "embeddings.txt"
 INPUT_FILENAME:          .string "input.txt"
-
+     
 W_Q_FILENAME:            .string "W_Q.txt"
 W_K_FILENAME:            .string "W_K.txt"
 W_V_FILENAME:            .string "W_V.txt"
