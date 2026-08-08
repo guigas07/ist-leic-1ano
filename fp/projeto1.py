@@ -81,7 +81,7 @@ def testa_palavra_padrao( palavra, padrao, conj):
             
     return True
 
-#3.2.1
+#3.2.1  
 tam_tab = 15 #tamanho das linhas e colunas do tabuleiro            
 
 def cria_tabuleiro():
