@@ -10,7 +10,7 @@ main:
   jal ra, argmax      # call argmax function
 exit:
   li a7, 10           # exit syscall code
-  ecall               # terminate the program
+  ecall               # terminate the program             
 
 # ==========================================================================
 # FUNCTION: argmax
