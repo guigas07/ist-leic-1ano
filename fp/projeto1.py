@@ -1,6 +1,6 @@
 #Guilherme Gomes  ist1117572
                                   
-#2.2  
+#2.2        
 def xorshift(estado: int): 
     '''Gera um número pseudoaletório, com um gerador do tipo xorshift'''
 
