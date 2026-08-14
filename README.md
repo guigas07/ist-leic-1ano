@@ -8,7 +8,7 @@ Iniciei o curso sem qualquer tipo de conhecimento prévio de linguagens de progr
 
 
 ## Cadeiras
-
+ 
 **FP — Fundamentos de Programação (Python)**
 O início. Partir um problema em passos antes de escrever código. Funções, recursão, listas, dicionários. No fundo era mais sobre aprender a pensar do que sobre Python em si.
 
