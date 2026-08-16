@@ -1,5 +1,5 @@
 # LEIC — Ano 1 (IST)
-   
+
 Projetos do primeiro ano de LEIC no Técnico: FP, LP, IAED e IAC.
 
 Este repositório tem como objetivo partilhar o meu percurso na licenciatura em engenharia informática e de computadores no Instituto Superior Técnico.
