@@ -6,7 +6,7 @@ Este repositório tem como objetivo partilhar o meu percurso na licenciatura em 
 
 Iniciei o curso sem qualquer tipo de conhecimento prévio de linguagens de programação. Portanto alguns projetos estão incompletos e/ou com erros. Todas as pastas de cada cadeira têm um ficheiro README com um contexto dos objetivos dos projetos em questão.
 
-
+   
 ## Cadeiras
  
 **FP — Fundamentos de Programação (Python)**
