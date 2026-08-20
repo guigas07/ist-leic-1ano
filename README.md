@@ -20,7 +20,7 @@ C com gestão de memória à mão, ordenação, pilhas, árvores, tabelas de dis
 
 **IAC — Introdução à Arquitetura de Computadores (Assembly)**
 Portas lógicas, ULA, registos, e no fim um processador simples desenhado em Logisim e programado em assembly. A cadeira onde finalmente vi o que acontece por baixo do código.
-
+ 
 ## Estrutura
 
 - `fp/`
