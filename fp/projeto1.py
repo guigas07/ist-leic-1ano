@@ -2,7 +2,7 @@
                             
 #2.2        
 def xorshift(estado: int): 
-    '''Gera um número pseudoaletório, com um gerador do tipo xorshift'''
+    '''Gera um número pseudoaletório, com um gerador do tipo xorshift'''   
 
     estado ^= ( estado << 13) & 0xFFFFFFFF
     estado ^= ( estado >> 17) & 0xFFFFFFFF
