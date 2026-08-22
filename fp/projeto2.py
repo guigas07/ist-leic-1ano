@@ -5,7 +5,7 @@ LET_2_INDEX = dict(zip(abcedario, range(len(abcedario))))
 
 min_tabuleiro = 1
 max_tabuleiro = 15
-
+ 
 ############################################################################
 #2.1.1 TAD casa
 
