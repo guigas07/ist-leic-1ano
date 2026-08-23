@@ -2,7 +2,7 @@
 
 Projetos desenvolvidos no âmbito da unidade curricular de **Fundamentos da Programação**, do 1º ano da LEIC no Instituto Superior Técnico (Ano letivo 2025-26). Ambos os projetos consistem na implementação, em Python, de uma adaptação do jogo **Scrabble**.
 
-## Projeto 1 — Scrabble IST 1
+## Projeto 1 — Scrabble 
 
 Implementação de uma versão base do Scrabble para 2 a 4 jogadores, num único ficheiro `.py`, usando apenas estruturas de dados nativas do Python (dicionários, listas e tuplos).
 
@@ -12,7 +12,7 @@ O projeto tem como objetivo praticar:
 - Desenho de funções que validam jogadas e atualizam o estado do jogo (jogar palavra, trocar letras, passar), respeitando as regras do Scrabble (primeira jogada a cobrir a casa central, palavras subsequentes ligadas às já existentes, etc.);
 - Escrita de funções puramente procedimentais, sem recurso a tipos abstratos de dados.
 
-## Projeto 2 — Scrabble IST 2
+## Projeto 2 — Scrabble 
 
 Extensão e refatorização do Projeto 1 para uma versão mais completa e automatizável do jogo, introduzindo **Tipos Abstratos de Dados (TADs)** e permitindo que o jogo seja jogado por humanos e/ou por agentes controlados pelo computador.
 
