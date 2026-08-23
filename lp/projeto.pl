@@ -18,8 +18,7 @@ dois valores e acaba por arredondar o valor da divisão*/
     N > 0,
     MediaAlunos is Soma / N,
     arredonda(MediaAlunos, Media).
-      
-
+    
 mediaNotasPorIdade(IdadeMin, IdadeMax, Media) :-
     /*o predicado mediaNotasPorIdade recolhe todas as notas associadasaos estudantes 
     cuja idade está no intervalo e calcula a média das notas recolhidas*/
@@ -29,7 +28,7 @@ mediaNotasPorIdade(IdadeMin, IdadeMax, Media) :-
     exame(Id, Nota)),
     ListaNotas),media(ListaNotas, Media).
 
-            
+
 freqPorGenero(Genero, MediaFreq) :- 
     /*o predicado freqPorgenero recolhe todas as frequências associadas a 
     estudantes de um dado género e calcula a média das frequências*/
