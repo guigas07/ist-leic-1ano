@@ -1,6 +1,6 @@
 # Fundamentos da Programação (FP)
 
-Projetos desenvolvidos no âmbito da unidade curricular de **Fundamentos da Programação**, do 1º ano da LEIC/LETI no Instituto Superior Técnico (Ano letivo 2025-26). Ambos os projetos consistem na implementação, em Python, de uma adaptação do jogo **Scrabble**.
+Projetos desenvolvidos no âmbito da unidade curricular de **Fundamentos da Programação**, do 1º ano da LEIC no Instituto Superior Técnico (Ano letivo 2025-26). Ambos os projetos consistem na implementação, em Python, de uma adaptação do jogo **Scrabble**.
 
 ## Projeto 1 — Scrabble IST 1
 
