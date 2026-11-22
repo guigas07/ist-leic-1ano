@@ -1,4 +1,4 @@
-# LEIC — Ano 1 (IST)
+# IST - LEIC — Ano 1 
  
 Projetos do primeiro ano de LEIC no Técnico: FP, LP, IAED e IAC.
 
