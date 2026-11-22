@@ -44,12 +44,10 @@ Construção da pipeline completa do Mini-Transformer em RISC-V (`p2-template_2.
 - cálculo dos *scores* de atenção, seleção do token mais relevante e decisão do próximo token.
 
 ## Projeto 3 — Processador de 16 bits com aceleração DOT
-![Processador de 16 bits em Logisim](ist-leic-1ano/iac/processador.png)
 
 Processador **single-cycle** de 16 bits construído em Logisim, especializado nas operações do Mini-Transformer. Em vez de calcular produtos internos com ciclos em software, o processador faz essas contas diretamente em hardware.
 
-![Processador de 16 bits em Logisim](images/processador.png)
-
+![Processador de 16 bits em Logisim](processor_circuit.png)
 ### Organização
 
 - **ROM** com o programa, endereçada pelo **PC**, que incrementa 1 em cada ciclo.
